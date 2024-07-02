@@ -1,1 +1,1 @@
-mcdreforged/mcdreforged
+mcdreforged/mcdreforged-temurin:latest-jdk17
